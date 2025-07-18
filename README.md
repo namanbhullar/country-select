@@ -2,7 +2,7 @@
 
 # Country Select plugin for Craft CMS 5.x
 
-Country select field type. This is a modified copy of the original [Country Select plugin](https://github.com/namanbhullar/craft-country-select) by Manoj, updated to work with Craft 5 whilst retaining the original functionality and MIT license.
+Country select field type. This is a modified copy of the original [Country Select plugin](https://github.com/namanbhullar/country-select) by Manoj, updated to work with Craft 5 whilst retaining the original functionality and MIT license.
 
 ## Requirements
 
@@ -18,6 +18,6 @@ To install the plugin, follow these instructions.
 
 2.  Then tell Composer to load the plugin:
 
-        composer require namanbhullar/craft-country-select
+        composer require namanbhullar/country-select
 
 3.  In the Control Panel, go to Settings → Plugins and click the “Install” button for Country Select.
