@@ -8,10 +8,10 @@
  * @copyright Copyright (c) 2025 Rack infosolution Pvt Ltd
  */
 
-namespace evoluted\countryselect;
+namespace namanbhullar\countryselect;
 
-use evoluted\countryselect\fields\CountrySelectField as CountrySelectField;
-use evoluted\countryselect\fields\CountrySelectMultiField as CountrySelectMultiField;
+use namanbhullar\countryselect\fields\CountrySelectField as CountrySelectField;
+use namanbhullar\countryselect\fields\CountrySelectMultiField as CountrySelectMultiField;
 use Craft;
 use craft\base\Plugin;
 use craft\services\Fields;

@@ -8,10 +8,10 @@
  * @copyright Copyright (c) 2025 Rack infosolution Pvt Ltd
  */
 
-namespace evoluted\countryselect\fields;
+namespace namanbhullar\countryselect\fields;
 
 use craft\fields\BaseOptionsField;
-use evoluted\countryselect\CountrySelect;
+use namanbhullar\countryselect\CountrySelect;
 
 use Craft;
 use craft\base\ElementInterface;

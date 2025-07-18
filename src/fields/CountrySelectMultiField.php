@@ -8,7 +8,7 @@
  * @copyright Copyright (c) 2025 Rack infosolution Pvt Ltd
  */
 
-namespace evoluted\countryselect\fields;
+namespace namanbhullar\countryselect\fields;
 
 use Craft;
 use craft\base\ElementInterface;

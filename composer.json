@@ -26,7 +26,7 @@
     },
     "autoload": {
         "psr-4": {
-          "evoluted\\countryselect\\": "src/"
+          "namanbhullar\\countryselect\\": "src/"
         }
     },
     "extra": {
@@ -34,6 +34,6 @@
         "handle": "country-select",
         "hasCpSettings": false,
         "hasCpSection": false,
-        "class": "evoluted\\countryselect\\CountrySelect"
+        "class": "namanbhullar\\countryselect\\CountrySelect"
     }
 }
