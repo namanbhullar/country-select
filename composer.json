@@ -1,0 +1,39 @@
+{
+    "name": "namanbhullar/craft-countryselect",
+    "description": "Country select field type.",
+    "type": "craft-plugin",
+    "version": "2.0.0",
+    "keywords": [
+        "craft",
+        "cms",
+        "craftcms",
+        "craft-plugin",
+        "country select"
+    ],
+    "support": {
+        "docs": "https://github.com/EvolutedNewMedia/craft-countryselect/blob/main/README.md",
+        "issues": "https://github.com/EvolutedNewMedia/craft-countryselect/issues"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Manoj",
+            "homepage": "https://github.com/namanbhullar"
+        }
+    ],
+    "require": {
+        "craftcms/cms": "^5.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+          "evoluted\\countryselect\\": "src/"
+        }
+    },
+    "extra": {
+        "name": "Country Select",
+        "handle": "country-select",
+        "hasCpSettings": false,
+        "hasCpSection": false,
+        "class": "evoluted\\countryselect\\CountrySelect"
+    }
+}

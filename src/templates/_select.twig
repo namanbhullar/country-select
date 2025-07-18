@@ -1,0 +1,22 @@
+{#
+/**
+ * Country Select plugin for Craft CMS 3.x
+ *
+ * Country Select Field Input
+ *
+ * @author    Manoj
+ * @copyright Copyright (c) 2018 Manoj
+ * @link      https://github.com/namanbhullar
+ * @package   CountrySelect
+ * @since     2.0.0
+ */
+#}
+
+{% import "_includes/forms" as forms %}
+
+{{ forms.selectField({
+    id: name,
+    name: name,
+    options: options,
+    value: value
+}) }}
